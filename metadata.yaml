@@ -1,0 +1,34 @@
+_repo: Sketches-of-Western-North-Carolina-Historical-and-Biographical--13-Illustrating-Principally-t__12953
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hunter, C. L.
+    gutenberg_agent_id: '4735'
+    url: http://www.gutenberg.org/2009/agents/4735
+description: ''
+gutenberg_issued: '2004-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12953'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Burke County (N.C.) -- History'
+- !lcsh 'Lincoln County (N.C.) -- History'
+- !lcsh 'Wilkes County (N.C.) -- History'
+- !lcc 'E201'
+- !lcsh 'Iredell County (N.C.) -- History'
+- !lcsh 'Cleveland County (N.C.) -- History'
+- !lcsh 'North Carolina -- History -- Revolution, 1775-1783'
+- !lcsh 'Gaston County (N.C.) -- History'
+- !lcsh 'Cabarrus County (N.C.) -- History'
+- !lcsh 'Rowan County (N.C.) -- History'
+- !lcsh 'Mecklenburg County (N.C.) -- History'
+- GITenberg
+title: "Sketches of Western North Carolina, Historical and Biographical\r\nIllustrating\
+  \ Principally the Revolutionary Period of Mecklenburg, Rowan, Lincoln and Adjoining\
+  \ Counties, Accompanied with Miscellaneous Information, Much of It Never before\
+  \ Published"
+url: http://www.gutenberg.org/ebooks/12953
